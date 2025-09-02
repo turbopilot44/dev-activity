@@ -1,0 +1,8 @@
+# Continuous Activity Tracker
+Last synced: 2025-09-02T22:59:43Z
+
+# Configuration constants
+MAX_WORKERS = 8
+TIMEOUT_SECONDS = 30
+RETRY_ATTEMPTS = 3
+
